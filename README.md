@@ -3,7 +3,10 @@
 <img src="https://raw.githubusercontent.com/gufran-09/gufran-09/main/assets/banner-header.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Engineer;Spring+Boot+•+React+•+Next.js+•+AWS;Building+Scalable+Distributed+Systems;Building+Production-Ready+Software" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Engineer;Spring+Boot+|+React+|+Next.js+|+AWS;Building+Scalable+Distributed+Systems;Building+Production-Ready+Software"
+    alt="Typing SVG"
+  />
 </a>
 <p align="center">
 Full Stack Software Engineer specializing in scalable backend systems, modern frontend applications, cloud-native architecture, and AI-powered software.
@@ -32,7 +35,7 @@ Full Stack Software Engineer specializing in scalable backend systems, modern fr
 
 ## 🪶 About Me
 
-<img align="right" width="260" src="https://img.shields.io/badge/status-shipping%20in%20production-4C1D95?style=flat-square&labelColor=0A0A1A" />
+<img align="right" width="260" src="https://img.shields.io/badge/Status-Shipping%20in%20Production-4C1D95?style=flat-square&labelColor=0A0A1A" />
 
 I'm a **Software Engineer** passionate about building **production-grade full-stack applications, scalable backend systems, and cloud-native solutions**.
 
@@ -78,7 +81,7 @@ I enjoy solving engineering problems involving software architecture, system des
 ### ⚙️ Backend
 
 <p>
-  <img src="https://techstack-generator.vercel.app/kafka-icon.svg" alt="Kafka" width="70" height="70" />
+  <img src="https://skillicons.dev/icons?i=kafka&theme=dark" alt="Kafka" width="70" height="70" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="70" height="70" />
   <img src="https://skillicons.dev/icons?i=spring,nodejs,maven&theme=dark" />
 </p>
@@ -133,7 +136,6 @@ I enjoy solving engineering problems involving software architecture, system des
 </p>
 
 </div>
----
 
 ### 📚 Software Engineering
 
@@ -216,7 +218,6 @@ A full-stack Retrieval-Augmented Generation chatbot that answers institution-spe
 Built a complete RAG pipeline including document ingestion, semantic chunking, vector embeddings, retrieval, and grounded response generation using Ollama and ChromaDB.
 
 </details>
----
 
 ## 🚧 Currently Building
 
@@ -257,7 +258,7 @@ Sole engineer responsible for the design, development, and maintenance of the co
 <img src="https://img.shields.io/badge/PostgreSQL-0A0A1A?style=flat-square&logo=postgresql&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/Payment%20Systems-0A0A1A?style=flat-square&logo=stripe&logoColor=A78BFA" />
 </p>
----
+
 ### AWS Student Builder Group Leader *(Present)*
 
 **Vardhaman College of Engineering**
@@ -410,7 +411,7 @@ current_focus:
 
 <div align="center">
 
-*"Code that ships in production is worth more than code that's perfect in theory."*
+*"Code that ships in production is worth more than code that's only perfect in theory."*
 
 <img src="https://raw.githubusercontent.com/gufran-09/gufran-09/main/assets/banner-footer.svg" width="100%"/>
 
