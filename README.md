@@ -326,7 +326,7 @@ Leadership Program
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-gufran3.vercel.app/api?username=gufran-09&show_icons=true&theme=radical&hide_border=true&bg_color=0A0A1A&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED" />
+<img height="165" src="https://github-readme-stats-gufran3.vercel.app/api?username=gufran-09&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0A0A1A&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED" />
 <img height="165" src="https://streak-stats.demolab.com/?user=gufran-09&theme=radical&hide_border=true&background=0A0A1A&stroke=7C3AED&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" />
 
 <br/>
