@@ -65,60 +65,58 @@ I enjoy solving engineering problems involving software architecture, system des
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css&theme=dark" />
-
 <p>
-Java • Python • JavaScript • TypeScript • SQL • HTML5 • CSS3
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="70" height="70" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="70" height="70" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="70" height="70" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="70" height="70" />
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
 </p>
 
 ---
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,kafka,maven&theme=dark" />
-
 <p>
-Spring Boot • Spring MVC • Spring Security • Spring Data JPA • Hibernate • Apache Kafka • Microservices • Saga Pattern • RESTful APIs • Node.js • JWT • OAuth 2.0
+  <img src="https://techstack-generator.vercel.app/kafka-icon.svg" alt="Kafka" width="70" height="70" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="70" height="70" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,maven&theme=dark" />
 </p>
 
 ---
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
-
 <p>
-React.js • Next.js • Tailwind CSS • WebSocket • REST API Integration
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="70" height="70" />
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,html,css&theme=dark" />
 </p>
 
 ---
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
-
 <p>
-PostgreSQL • MySQL • MongoDB • ChromaDB (Vector Database)
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
 </p>
 
 ---
 
-### ☁️ Cloud (AWS)
-
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" />
+### ☁️ Cloud & DevOps
 
 <p>
-EC2 • S3 • IAM • Lambda • RDS • ECS • CloudWatch • VPC
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="70" height="70" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="70" height="70" />
+  <img src="https://skillicons.dev/icons?i=linux,cloudflare,vercel&theme=dark" />
 </p>
 
 ---
 
-### 🚀 DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=docker,git,linux,vercel,cloudflare,postman&theme=dark" />
+### 🛠️ Tools
 
 <p>
-Docker • Docker Compose • Git • Linux • Maven • Vercel • Cloudflare • Postman • IntelliJ IDEA
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="70" height="70" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,postman,figma,jupyter&theme=dark" />
 </p>
 
 ---
@@ -126,9 +124,15 @@ Docker • Docker Compose • Git • Linux • Maven • Vercel • Cloudflare 
 ### 🤖 AI & Machine Learning
 
 <p>
-Retrieval-Augmented Generation (RAG) • Large Language Models (LLMs) • Ollama • Vector Search • Embeddings • Prompt Engineering
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChromaDB-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embeddings-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge" />
 </p>
 
+</div>
 ---
 
 ### 📚 Software Engineering
@@ -137,7 +141,6 @@ Retrieval-Augmented Generation (RAG) • Large Language Models (LLMs) • Ollama
 Data Structures & Algorithms • System Design • Agile/Scrum • Unit Testing
 </p>
 
-</div>
 
 ---
 
@@ -147,11 +150,11 @@ Data Structures & Algorithms • System Design • Agile/Scrum • Unit Testing
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Retrieval-Augmented Generation (RAG)** | 🟣🟣🟣⚪⚪ | Building AI-powered applications using vector databases and LLMs |
+| **Retrieval-Augmented Generation (RAG)** | 🟣🟣🟣🟣🟣 | Building AI-powered applications using vector databases and LLMs |
 | **Local LLMs** | 🟣🟣🟣🟣⚪ | Ollama-based AI workflows |
-| **Vector Databases** | 🟣🟣🟣⚪⚪ | ChromaDB, Embeddings, Semantic Search |
-| **Prompt Engineering** | 🟣🟣🟣🟣⚪ | Designing AI-assisted developer workflows |
-| **LLM Integration** | 🟣🟣🟣🟣⚪ | AI-powered product features |
+| **Vector Databases** | 🟣🟣🟣🟣🟣 | ChromaDB, Embeddings, Semantic Search |
+| **Prompt Engineering** | 🟣🟣🟣🟣🟣 | Designing AI-assisted developer workflows |
+| **LLM Integration** | 🟣🟣🟣⚪⚪ | AI-powered product features |
 
 </div>
 
@@ -159,7 +162,7 @@ Data Structures & Algorithms • System Design • Agile/Scrum • Unit Testing
 
 ## 🚀 Featured Projects
 
-<details>
+<details open>
 <summary><b>🌴 FlyOut Tours — Production Travel Platform</b></summary>
 <br/>
 
@@ -316,17 +319,6 @@ Leadership Program
 
 </div>
 
----
-
-## 🎓 Education
-
-**Bachelor of Technology (B.Tech)**
-
-Computer Science & Engineering
-
-Vardhaman College of Engineering
-
-Expected Graduation: 2028
 ---
 
 ## 📊 GitHub Analytics
