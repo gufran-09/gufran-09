@@ -3,14 +3,12 @@
 <img src="https://raw.githubusercontent.com/gufran-09/gufran-09/main/assets/banner-header.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+distributed+systems+that+scale;Spring+Boot+%7C+Kafka+%7C+Saga+Pattern+Architecture;Shipping+production+software%2C+not+just+demos;Backend+Engineer+%7C+AI%2FML+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Engineer;Spring+Boot+•+React+•+Next.js+•+AWS;Building+Scalable+Distributed+Systems;Building+Production-Ready+Software" />
 </a>
-
+<p align="center">
+Full Stack Software Engineer specializing in scalable backend systems, modern frontend applications, cloud-native architecture, and AI-powered software.
+</p>
 <br/>
-
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-7C3AED?style=flat-square&labelColor=0A0A1A&color=6D28D9" />
-<img src="https://img.shields.io/badge/Vardhaman%20College%20of%20Engineering-Class%20of%202028-6D28D9?style=flat-square&labelColor=0A0A1A&color=4C1D95" />
-<img src="https://img.shields.io/badge/CGPA-8.94-8B5CF6?style=flat-square&labelColor=0A0A1A&color=6D28D9" />
 <img src="https://img.shields.io/badge/📍-Hyderabad,%20India-4C1D95?style=flat-square&labelColor=0A0A1A&color=7C3AED" />
 
 <br/><br/>
@@ -36,41 +34,108 @@
 
 <img align="right" width="260" src="https://img.shields.io/badge/status-shipping%20in%20production-4C1D95?style=flat-square&labelColor=0A0A1A" />
 
-I'm a **third-year Computer Science student** and **software engineer** who builds systems that survive contact with real users — not just semester projects. My work centers on **backend engineering, distributed systems, and full-stack product development**, with a growing focus on applying **AI/ML** to real engineering problems.
+I'm a **Software Engineer** passionate about building **production-grade full-stack applications, scalable backend systems, and cloud-native solutions**.
 
-- 🏗️ Designing distributed, event-driven architectures — currently building **AeroSaga**, a Spring Boot + Kafka airline booking system implementing the Saga pattern for distributed transactions
-- 🌍 Solo-built and maintain **[FlyOut Tours](https://flyoutours.com)**, a production travel platform handling real payments, real users, and real uptime pressure
-- 🧠 Exploring applied AI/ML — from graph neural networks for code analysis to LLM-powered product features
-- 🎯 Product-engineering mindset: I care about what ships, what scales, and what breaks at 2 AM
-- 🧑‍🏫 **AWS Student Builder Group Leader**, driving cloud-computing culture on campus
+My experience spans the complete software development lifecycle—from designing distributed backend systems using **Spring Boot, Kafka, and Microservices** to building modern web applications with **React.js and Next.js**, deploying them on **AWS**, and integrating **AI-powered features** using Retrieval-Augmented Generation (RAG) and Large Language Models.
+
+I enjoy solving engineering problems involving software architecture, system design, scalability, and developer experience.
+
+- 🎨 Building modern frontend applications with React.js, Next.js and Tailwind CSS
+
+- ⚙️ Designing scalable backend systems using Spring Boot, Kafka, Microservices and REST APIs
+
+- ☁️ Deploying cloud-native applications on AWS using EC2, ECS, RDS and S3
+
+- 🤖 Building AI-powered applications using RAG, Ollama, ChromaDB and Vector Search
+
+- 🌍 Building and maintaining FlyOut Tours, a production platform serving real customers
+
+- 🧑‍🏫 AWS Student Builder Group Leader driving cloud learning and community initiatives
 
 <br/>
 
-> **Open To:** Backend Engineering Internships · Product-Based Company Roles · Distributed Systems Work · Open Source Collaboration
+> **Open To:** Software Engineering Internships · Full Stack Engineering · Backend Engineering · Open Source Collaboration
 
 <br clear="right"/>
 
 ---
-
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css&theme=dark" />
 
-**Frontend**
+<p>
+Java • Python • JavaScript • TypeScript • SQL • HTML5 • CSS3
+</p>
+
+---
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,kafka,maven&theme=dark" />
+
+<p>
+Spring Boot • Spring MVC • Spring Security • Spring Data JPA • Hibernate • Apache Kafka • Microservices • Saga Pattern • RESTful APIs • Node.js • JWT • OAuth 2.0
+</p>
+
+---
+
+### 🎨 Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
 
-**Backend & Databases**
+<p>
+React.js • Next.js • Tailwind CSS • WebSocket • REST API Integration
+</p>
 
-<img src="https://skillicons.dev/icons?i=spring,fastapi,postgres,supabase,kafka,nodejs&theme=dark" />
+---
 
-**Cloud, DevOps & Tooling**
+### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,postman,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
+
+<p>
+PostgreSQL • MySQL • MongoDB • ChromaDB (Vector Database)
+</p>
+
+---
+
+### ☁️ Cloud (AWS)
+
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" />
+
+<p>
+EC2 • S3 • IAM • Lambda • RDS • ECS • CloudWatch • VPC
+</p>
+
+---
+
+### 🚀 DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,linux,vercel,cloudflare,postman&theme=dark" />
+
+<p>
+Docker • Docker Compose • Git • Linux • Maven • Vercel • Cloudflare • Postman • IntelliJ IDEA
+</p>
+
+---
+
+### 🤖 AI & Machine Learning
+
+<p>
+Retrieval-Augmented Generation (RAG) • Large Language Models (LLMs) • Ollama • Vector Search • Embeddings • Prompt Engineering
+</p>
+
+---
+
+### 📚 Software Engineering
+
+<p>
+Data Structures & Algorithms • System Design • Agile/Scrum • Unit Testing
+</p>
 
 </div>
 
@@ -82,35 +147,17 @@ I'm a **third-year Computer Science student** and **software engineer** who buil
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Graph Neural Networks (GNN/GCN)** | 🟣🟣🟣⚪⚪ | Applied GCNs to source-code representation for vulnerability pattern detection |
-| **LLM-Powered Product Features** | 🟣🟣🟣🟣⚪ | Integrated Claude API into a personal portfolio for an interactive Ask-AI experience |
-| **Applied ML for Engineering** | 🟣🟣🟣⚪⚪ | Focused on translating ML research concepts into deployable engineering components |
-| **Prompt Engineering & Tool Use** | 🟣🟣🟣🟣⚪ | Designs LLM-integrated workflows and agentic tool pipelines |
+| **Retrieval-Augmented Generation (RAG)** | 🟣🟣🟣⚪⚪ | Building AI-powered applications using vector databases and LLMs |
+| **Local LLMs** | 🟣🟣🟣🟣⚪ | Ollama-based AI workflows |
+| **Vector Databases** | 🟣🟣🟣⚪⚪ | ChromaDB, Embeddings, Semantic Search |
+| **Prompt Engineering** | 🟣🟣🟣🟣⚪ | Designing AI-assisted developer workflows |
+| **LLM Integration** | 🟣🟣🟣🟣⚪ | AI-powered product features |
 
 </div>
 
 ---
 
 ## 🚀 Featured Projects
-
-<details open>
-<summary><b>✈️ AeroSaga — Distributed Airline Booking System</b></summary>
-<br/>
-
-A flagship distributed systems project simulating an airline booking platform using **microservices**, **event streaming**, and the **Saga pattern** for distributed transaction management across services.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Spring Boot · Apache Kafka · Saga Pattern (Orchestration) · PostgreSQL |
-| **Scale** | Multi-service distributed architecture with independent bounded contexts |
-| **Performance** | Event-driven async communication reducing service coupling and blocking calls |
-| **Security** | Service-level isolation, transactional boundaries per microservice |
-| **Impact** | Serves as academic research base — exploring orchestration vs. choreography Saga tradeoffs for a student conference publication |
-| **Repository** | [github.com/gufran-09/aerosaga](https://github.com/gufran-09) |
-
-Built to explore how real distributed booking systems handle partial failures — using compensating transactions instead of two-phase commit to keep services loosely coupled while preserving data consistency across the booking, payment, and inventory domains.
-
-</details>
 
 <details>
 <summary><b>🌴 FlyOut Tours — Production Travel Platform</b></summary>
@@ -120,7 +167,7 @@ A live, production travel booking platform built solo from the ground up over se
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | Next.js · Supabase · PostgreSQL (Row-Level Security) · Tabby, Tamara & Ziina Payment Gateways |
+| **Stack** | React · Next.js · Tailwind CSS · Supabase · PostgreSQL · REST APIs · Tabby · Tamara · Ziina |
 | **Scale** | Large-scale dynamic page generation across tours, destinations, and packages |
 | **Performance** | Server-rendered dynamic routing optimized for SEO and fast page loads |
 | **Security** | HMAC-SHA256 webhook signature validation across three payment providers; PostgreSQL RLS for data isolation |
@@ -132,42 +179,59 @@ Owning this platform end-to-end meant becoming fluent in the unglamorous parts o
 </details>
 
 <details>
-<summary><b>📄 Resume Shortlisting Tool — Automated Screening Engine</b></summary>
+<summary><b>🤖 Agent Ascend — Multi-Model AI Orchestration Platform</b></summary>
 <br/>
 
-A two-service resume screening system commissioned by the Head of Department to automate candidate shortlisting for departmental hiring workflows.
+A multi-agent AI platform built during a national AI hackathon that intelligently routes prompts across multiple Large Language Models based on cost, latency, task complexity, and model capability.
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | Python (FastAPI) for parsing · Java (Spring Boot) for scoring engine |
-| **Scale** | Two decoupled services communicating over a defined API contract |
-| **Performance** | Parsing and scoring separated into independent services for maintainability |
-| **Security** | Server-side document parsing with input validation |
-| **Impact** | Directly requested and adopted by faculty for real departmental use |
-| **Repository** | [github.com/gufran-09](https://github.com/gufran-09) |
+| **Stack** | Next.js · React · Node.js · AI Agents · OpenAI · Gemini · Claude · React Flow |
+| **Scale** | Multi-model orchestration with parallel task execution |
+| **Performance** | Dynamic routing based on latency, complexity, and cost optimization |
+| **Impact** | Ranked **Top 16 among 300+ competing teams** at Agent Ascend AI Hackathon |
+| **Repository** | [GitHub Link](https://github.com/gufran-09/Agent_Ascend) |
 
-Designed as a two-service architecture on purpose — separating unstructured resume parsing from structured scoring logic, so each service can evolve independently.
+Designed a visual workflow engine that decomposes complex prompts into subtasks, routes them to the most appropriate LLMs, and visualizes execution flow using React Flow.
 
 </details>
 
 <details>
-<summary><b>💎 Personal Portfolio — Interactive Developer Showcase</b></summary>
+<summary><b>📚 College FAQ Assistant — RAG Powered AI Chatbot</b></summary>
 <br/>
 
-A continuously refined personal portfolio, evolved through multiple design iterations into a premium, minimal dark aesthetic.
+A full-stack Retrieval-Augmented Generation chatbot that answers institution-specific questions by grounding responses in uploaded college documents instead of relying on general LLM knowledge.
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | React · Vite · Tailwind CSS · Framer Motion · Claude API · Spline (3D) |
-| **Scale** | Single-page interactive experience with custom animation systems |
-| **Performance** | Spring-physics custom cursor, optimized particle background rendering |
-| **Security** | Client-side only, no sensitive data exposure |
-| **Impact** | Serves as a living demonstration of frontend craftsmanship and product polish |
-| **Repository** | [github.com/gufran-09](https://github.com/gufran-09) |
+| **Stack** | Spring Boot · PostgreSQL · ChromaDB · Ollama · Gemma 3 · Docker |
+| **Scale** | Semantic document ingestion and vector search pipeline |
+| **Performance** | Chunking, embeddings, and similarity search for accurate contextual responses |
+| **Security** | Local LLM inference with institution-specific knowledge base |
+| **Repository** | [GitHub Link](https://github.com/gufran-09/College-FAQ-Chatbot) |
 
-Iterated from a hacker/terminal aesthetic into a clean, Linear/Vercel/Apple-inspired design — featuring an eye-tracking SVG avatar, a 3D interactive keyboard, and a hidden terminal easter egg.
+Built a complete RAG pipeline including document ingestion, semantic chunking, vector embeddings, retrieval, and grounded response generation using Ollama and ChromaDB.
 
 </details>
+---
+
+## 🚧 Currently Building
+
+### ✈️ AeroSaga — Distributed Airline Booking System
+
+**Java • Spring Boot • Apache Kafka • Docker • PostgreSQL**
+
+A distributed airline booking platform built using a microservices architecture and the Saga pattern to coordinate distributed transactions across booking, payment, and inventory services.
+
+### Current Work
+
+- Implementing both orchestration-based and choreography-based Saga patterns
+- Benchmarking recovery latency and resilience under simulated service failures
+- Containerizing services with Docker and Docker Compose
+- Preparing AWS deployment and observability infrastructure
+- Developing the project toward an IEEE student conference publication
+
+> Building a production-grade distributed systems project focused on fault tolerance, scalability, and transaction consistency.
 
 ---
 
@@ -176,7 +240,7 @@ Iterated from a hacker/terminal aesthetic into a clean, Linear/Vercel/Apple-insp
 ### Software Engineer · Flyout Tours LLC
 **UAE-Based Travel Agency — Remote**
 
-Sole engineer responsible for the design, development, and maintenance of the company's production travel platform, **flyoutours.com**.
+Sole engineer responsible for the design, development, and maintenance of the company's production travel platform, **flyouttours.com**.
 
 **Scope of Work**
 - Architected and built the platform end-to-end using Next.js and Supabase
@@ -190,7 +254,20 @@ Sole engineer responsible for the design, development, and maintenance of the co
 <img src="https://img.shields.io/badge/PostgreSQL-0A0A1A?style=flat-square&logo=postgresql&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/Payment%20Systems-0A0A1A?style=flat-square&logo=stripe&logoColor=A78BFA" />
 </p>
+---
+### AWS Student Builder Group Leader *(Present)*
 
+**Vardhaman College of Engineering**
+
+AWS Cloud • Community Leadership
+
+- Lead the campus AWS Student Builder Group.
+
+- Organize AWS workshops and cloud computing events.
+
+- Mentor students on AWS fundamentals and cloud best practices.
+
+- Represent the campus within the global AWS Builder network.
 ---
 
 ## 🏆 Achievements
@@ -208,13 +285,23 @@ Sole engineer responsible for the design, development, and maintenance of the co
 
 ## 📜 Certifications
 
-<div align="center">
+### Oracle Certified Foundations Associate – Agentic AI
 
-**☁️ AWS**
+🔗 [View Credential](https://catalog-education.oracle.com/pls/certview/sharebadge?id=EFCB63EFB2837269A2B377D24CF05FF31A48C8511EDCE5625E9056C336CD2603)
 
-<img src="https://img.shields.io/badge/AWS%20Student%20Builder%20Group-Leader-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0A0A1A" />
+---
 
-</div>
+### NPTEL – Programming in Java (2025)
+
+🏅 Score: **94%**
+
+🔗 [View Credential](https://archive.nptel.ac.in/content/noc/NOC25/SEM2/Ecertificates/106/noc25-cs110/Course/NPTEL25CS110S35820247210283013.pdf)
+
+---
+
+### ☁️ AWS Student Builder Group Leader 
+
+Leadership Program
 
 ---
 
@@ -222,13 +309,24 @@ Sole engineer responsible for the design, development, and maintenance of the co
 
 <div align="center">
 
-<a href="https://leetcode.com/gufran-09/"><img src="https://img.shields.io/badge/LeetCode-Profile-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0A0A1A" /></a>
-<a href="https://www.geeksforgeeks.org/user/gufran-09/"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0A0A1A" /></a>
-<a href="https://www.hackerrank.com/gufran-09"><img src="https://img.shields.io/badge/HackerRank-Profile-4C1D95?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0A0A1A" /></a>
-<a href="https://www.codechef.com/users/gufran-09"><img src="https://img.shields.io/badge/CodeChef-Profile-7C3AED?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0A0A1A" /></a>
+<a href="https://leetcode.com/u/gufran_21/"><img src="https://img.shields.io/badge/LeetCode-Profile-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0A0A1A" /></a>
+<a href="https://www.geeksforgeeks.org/profile/gufran_09"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0A0A1A" /></a>
+<a href="https://www.hackerrank.com/profile/gufran_21"><img src="https://img.shields.io/badge/HackerRank-Profile-4C1D95?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0A0A1A" /></a>
+<a href="https://www.codechef.com/users/gufran_21"><img src="https://img.shields.io/badge/CodeChef-Profile-7C3AED?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0A0A1A" /></a>
 
 </div>
 
+---
+
+## 🎓 Education
+
+**Bachelor of Technology (B.Tech)**
+
+Computer Science & Engineering
+
+Vardhaman College of Engineering
+
+Expected Graduation: 2028
 ---
 
 ## 📊 GitHub Analytics
@@ -280,23 +378,27 @@ Sole engineer responsible for the design, development, and maintenance of the co
 
 ```yaml
 current_focus:
-  learning:
-    - Distributed systems theory (Saga orchestration vs. choreography)
-    - Advanced Kafka patterns for event-driven architectures
-    - Applied graph neural networks for engineering use cases
-
   building:
-    - AeroSaga — distributed airline booking system (Spring Boot + Kafka)
-    - Continued feature development on flyoutours.com
+    - AeroSaga (Spring Boot + Kafka + Saga Pattern)
+    - AI-powered full-stack applications
+    - Cloud-native web platforms
+
+  learning:
+    - Advanced System Design
+    - Distributed Systems
+    - AWS Solutions Architecture
+    - Event-Driven Architecture
 
   exploring:
-    - LLM-integrated product features
-    - Research publication on Saga pattern tradeoffs
+    - AI Agents
+    - LangGraph
+    - Model Context Protocol (MCP)
 
   open_to:
-    - Backend Engineering Internships
-    - Product-Based Company Roles
-    - Open Source Collaboration
+    - Software Engineering Internships
+    - Full Stack Development
+    - Backend Engineering
+    - Cloud Engineering
 ```
 
 ---
