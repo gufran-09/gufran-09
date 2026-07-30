@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A1A,50:4C1D95,100:7C3AED&height=220&section=header&text=Gufran%20Ahmed&fontSize=52&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Systems%20%7C%20AI%2FML&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
+<img src="https://raw.githubusercontent.com/gufran-09/gufran-09/main/assets/banner-header.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+distributed+systems+that+scale;Spring+Boot+%7C+Kafka+%7C+Saga+Pattern+Architecture;Shipping+production+software%2C+not+just+demos;Backend+Engineer+%7C+AI%2FML+Explorer" alt="Typing SVG" />
@@ -318,6 +318,6 @@ current_focus:
 
 *"Code that ships in production is worth more than code that's perfect in theory."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4C1D95,100:0A0A1A&height=120&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/gufran-09/gufran-09/main/assets/banner-footer.svg" width="100%"/>
 
 </div>
